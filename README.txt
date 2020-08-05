@@ -1,0 +1,1 @@
+This Codecademy project takes emails as inputs and censors out words given in a list, and the words around those words.
