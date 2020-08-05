@@ -104,6 +104,8 @@ def sort_list_by_element_length(input_list):
     input_list.reverse()
     return input_list
 
+
+# Uncomment lines below to run the program, good luck!!! (First program, go easy :))
 #print(censor_word(email_one, "learning algorithms"))
 #print(censor_list(email_two, proprietary_terms))
 #print(censor_multiple_lists(email_three, proprietary_terms, negative_words))
